@@ -17,3 +17,7 @@
 | Poteciômetro | 10k/1k | 1 | R$1,60 |
 | Resistor | 1.2k | 1 | R$ 0,07 |
 | Resistor | 270 | 1 | R$ 0,07 |
+## Simulação no Falstad:
+//Colocar link do Falstad aqui
+## Explicação do circuito:
+//Colocar link do vídeo aqui
