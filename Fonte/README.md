@@ -1,5 +1,7 @@
 # Projeto de Fonte de Tensão Ajustável
  Projeto realizado no primeiro semestre do curso de Bacharelado em Ciências de Computação, para a disciplina '[SSC0180] – Eletrônica para Computação', ministrada pelo professor Eduardo do Valle Simões, da USP de São Carlos
+## Especificação
+Fonte reguladora de tensão variável que transforma uma corrente de 127V em uma de 3V até 12V
 ## Integrantes do Grupo:
 | Nome | NUSP |
 |------|------|
@@ -17,7 +19,11 @@
 | Poteciômetro | 10k/1k | 1 | R$1,60 |
 | Resistor | 1.2k | 1 | R$ 0,07 |
 | Resistor | 270 | 1 | R$ 0,07 |
-## Simulação no Falstad:
-//Colocar link do Falstad aqui
-## Explicação do circuito:
-//Colocar link do vídeo aqui
+## Simulação do Circuito:
+//Colocar link e foto do Falstad aqui
+## Schematic do circuito no EAGLE:
+//Colocar foto do EAGLE aqui
+## Vídeo do circuito:
+//Colocar link do vídeo exxplicativo aqui
+## Imagens do projeto
+//fotos
