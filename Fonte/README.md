@@ -25,8 +25,9 @@ Fonte reguladora de tensão variável que transforma uma corrente de 127V em uma
 
 ## Simulação do Circuito:
 //Colocar link e foto do Falstad aqui
-## Schematic do circuito no EAGLE:
+## Esquemático da PCB no software Proteus:
 //Colocar foto do EAGLE aqui
+## PCB do Circuito no Software Proteus:
 ## Vídeo do circuito:
 //Colocar link do vídeo exxplicativo aqui
 ## Imagens do projeto
