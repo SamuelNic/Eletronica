@@ -1,0 +1,3 @@
+[submodule "Memory-Game-ESP32"]
+	path = Memory-Game-ESP32
+	url = https://github.com/furtadojean/Memory-Game-ESP32
