@@ -1,7 +1,7 @@
 # Projeto de Fonte de Tensão Ajustável
  Projeto realizado no primeiro semestre do curso de Bacharelado em Ciências de Computação, para a disciplina '[SSC0180] – Eletrônica para Computação', ministrada pelo professor Eduardo do Valle Simões, da USP de São Carlos
 ## Especificação
-Fonte reguladora de tensão variável que transforma uma corrente de 127V em uma de 3V até 12V
+Fonte reguladora de tensão variável que transforma a tensão 127V AC da tomada em 1,5-12V CC
 ## Integrantes do Grupo:
 | Nome | NUSP |
 |------|------|
