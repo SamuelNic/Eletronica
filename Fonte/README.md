@@ -35,5 +35,4 @@ Link para a simulação: https://www.multisim.com/content/sebqCP3t75cmC8oAsDHSxY
 ![fonte ares](https://user-images.githubusercontent.com/110208895/181827415-69203dab-ebf6-47bc-9162-1b3463e85584.png)
 ## Vídeo do circuito:
 //Colocar link do vídeo exxplicativo aqui
-## Imagens do projeto
 
