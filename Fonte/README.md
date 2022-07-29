@@ -23,11 +23,11 @@ Fonte reguladora de tensão variável que transforma uma corrente de 127V em uma
 | Resistor | 270 | 1 | R$ 0,07 |
 
 ## Funcionamento
-1. Transformador: reduz a corrente e a tensão que vem da tomada 127V AC em 12V AC nos 2 terminais de saida.
-2. Retificação: ocorre através dos diodos que transformão a corrente alternada em corrente continua.
-3. Filtragem: o capacitor armazena energia e descarrega quando a tensão esta em queda, assim reduzindo a variação da tensão.
-4. Regulação: a regulagem da tensão é feito pelo LM317 que limita a saida em 12v.
-5. Ajuste: é feito pelo potenciômetro, de acordo com que almentamos a resistencia a tensão diminui.  
+1. Transformador: reduz a corrente e a tensão que vem da tomada 127V AC em 12V AC nos 2 terminais de saída.
+2. Retificação: ocorre através dos diodos que transformam a corrente alternada em corrente contínua.
+3. Filtragem: o capacitor armazena energia e descarrega quando a tensão está em queda, assim reduzindo a variação da tensão.
+4. Regulação: a regulagem da tensão é feita pelo LM317 que limita a saída em 12v.
+5. Ajuste: é feito pelo potenciômetro, de acordo com a alteração da resistência ele diminui ou aumenta a tensão.
 
 ## Simulação do Circuito no Multisim:
 ![SimulaçãoMultisim](https://user-images.githubusercontent.com/110208895/181829224-fdac9fd0-3856-42c2-8997-190dd74390b4.png)
