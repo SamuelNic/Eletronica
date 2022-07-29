@@ -26,6 +26,9 @@ Fonte reguladora de tensão variável que transforma uma corrente de 127V em uma
 ## Simulação do Circuito no Multisim:
 ![SimulaçãoMultisim](https://user-images.githubusercontent.com/110208895/181829224-fdac9fd0-3856-42c2-8997-190dd74390b4.png)
 Link para a simulação: https://www.multisim.com/content/sebqCP3t75cmC8oAsDHSxY/fonte-tensao-ajustavel-12v/open/
+## Calculos dos componetes:
+![equacoes](https://user-images.githubusercontent.com/110208895/181831110-4ac6a579-f0a9-49e2-a40b-07ab9f144000.png)
+
 ## Esquemático da PCB no software Proteus:
 ![fonte isis](https://user-images.githubusercontent.com/110208895/181827555-6eaf0a4f-efec-472a-80bd-3763af17cbc5.png)
 ## PCB do Circuito no Software Proteus:
@@ -33,6 +36,4 @@ Link para a simulação: https://www.multisim.com/content/sebqCP3t75cmC8oAsDHSxY
 ## Vídeo do circuito:
 //Colocar link do vídeo exxplicativo aqui
 ## Imagens do projeto
-
-
 
