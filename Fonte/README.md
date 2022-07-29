@@ -12,15 +12,17 @@ Fonte reguladora de tensão variável que transforma uma corrente de 127V em uma
 ## Companentes:
 | Componente | Especificações/Tipo | Quantidade | Valor |
 |------------|---------------------|------------|-------|
-| Diodo | 1N5404 | 2 | R$ 1,20 |
-| Transistor | lm317t | 1 | R$ 0,22 |
+| Diodo | 1N5404 | 2 | R$ 2,40 |
+| Transistor | LM317T | 1 | R$ 2,70 |
 | Transformador | 12 + 12V 1A | 1 | R$ 26,80 |
-| Capacitor | 1000µF 50V | 1 | R$3,10 |
-| Capacitor | 1000µF 50V | 1 | R$1,10 |
+| Capacitor | 1000µF 50V | 1 | R$1,80 |
+| Capacitor | 10µF 50V | 1 | R$1,10 |
 | Poteciômetro | 1w/50k | 1 | R$7,00 |
 | Resistor | 1.2k | 1 | R$ 0,07 |
 | Resistor | 330 | 1 | R$ 0,07 |
 | Resistor | 270 | 1 | R$ 0,07 |
+
+
 ## Simulação do Circuito:
 //Colocar link e foto do Falstad aqui
 ## Schematic do circuito no EAGLE:
