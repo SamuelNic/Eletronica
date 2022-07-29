@@ -23,8 +23,9 @@ Fonte reguladora de tensão variável que transforma uma corrente de 127V em uma
 | Resistor | 270 | 1 | R$ 0,07 |
 
 
-## Simulação do Circuito:
-//Colocar link e foto do Falstad aqui
+## Simulação do Circuito no Multisim:
+![SimulaçãoMultisim](https://user-images.githubusercontent.com/110208895/181829224-fdac9fd0-3856-42c2-8997-190dd74390b4.png)
+//link para a simulação:(https://www.multisim.com/content/sebqCP3t75cmC8oAsDHSxY/fonte-tensao-ajustavel-12v/open/)
 ## Esquemático da PCB no software Proteus:
 ![fonte isis](https://user-images.githubusercontent.com/110208895/181827555-6eaf0a4f-efec-472a-80bd-3763af17cbc5.png)
 ## PCB do Circuito no Software Proteus:
